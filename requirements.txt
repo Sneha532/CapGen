@@ -1,0 +1,4 @@
+tqdm=4.66.1
+numpy==1.23.5
+tensorflow==2.14.0
+streamlit==1.46.1
